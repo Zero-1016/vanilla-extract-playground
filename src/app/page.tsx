@@ -1,5 +1,5 @@
-import HomeContainer from "@/features/home/container";
+import { Sprinkles as SprinklesExample } from "../features/example/sprinkles";
 
 export default function Home() {
-  return <HomeContainer />;
+  return <SprinklesExample />;
 }
