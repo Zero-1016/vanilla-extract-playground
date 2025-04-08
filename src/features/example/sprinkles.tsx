@@ -1,6 +1,6 @@
 import { Box } from "@/components/Box/Box";
 
-export const Sprinkles = () => {
+export const SprinklesExample = () => {
   return (
     <Box
       display="flex"

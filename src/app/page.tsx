@@ -1,5 +1,5 @@
-import { Sprinkles as SprinklesExample } from "../features/example/sprinkles";
+import { RecipesExample } from "../features/example/recipes";
 
 export default function Home() {
-  return <SprinklesExample />;
+  return <RecipesExample />;
 }
